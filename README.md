@@ -12,6 +12,10 @@ Matkul  : Pemrograman Mobile 1
 Dosen   : Donny Maulana, S.Kom., M.M.S.I.
 
 
+![serendipityapps](https://github.com/syifaaurellia/SerendipityApps/assets/115867244/991192c2-addc-4081-81df-6c2eb1189d09)
+
+
+
 # **Daftar Isi**
 - **[Tugas 1](#tugas-1)**
 
