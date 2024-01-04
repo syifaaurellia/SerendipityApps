@@ -7,9 +7,9 @@ NIM     : 312210009
 
 Kelas   : TI.22.A1
 
-Matkul  : Pemrograman Mobile 1
+Mata Kuliah : Pemrograman Mobile 1
 
-Dosen   : Donny Maulana, S.Kom., M.M.S.I.
+Dosen Pengampu   : Donny Maulana, S.Kom., M.M.S.I.
 
 
 ![serendipityapps](https://github.com/syifaaurellia/SerendipityApps/assets/115867244/991192c2-addc-4081-81df-6c2eb1189d09)
