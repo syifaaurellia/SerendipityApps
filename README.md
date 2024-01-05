@@ -30,11 +30,11 @@ Dosen Pengampu   : Donny Maulana, S.Kom., M.M.S.I.
 
 - **[Penjelasan & Hasil Program Tugas 3](#penjelasan--hasil-program-tugas-3)**
 
-- **[Demo Tugas 1](#demo-program-tugas-1)**
+- **[Demo Tugas 1](#demo-tugas-1)**
 
-- **[Demo Tugas 2](#demo-program-tugas-2)**
+- **[Demo Tugas 2](#demo-tugas-2)**
 
-- **[Demo Tugas 3](#demo-program-tugas-3)**
+- **[Demo Tugas 3](#demo-tugas-3)**
 
 
 ## Tugas 1 
